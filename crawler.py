@@ -1,7 +1,4 @@
 import asyncio
-import aiohttp
-from datetime import datetime
-import time
 import random
 
 import db

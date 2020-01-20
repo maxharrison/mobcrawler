@@ -1,8 +1,5 @@
-from datetime import datetime
-import json
 import asyncpg
 import asyncio
-import time
 
 
 async def dbInit():
